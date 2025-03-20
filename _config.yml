@@ -1,0 +1,9 @@
+title: "Hung Z's Website"
+author: "Hung Z"
+description: "My personal website powered by Jekyll and GitHub Pages"
+
+# Use a Jekyll theme
+theme: minima  # Change this to your preferred theme
+
+# Optional: Add social links
+github_username: hung-z
